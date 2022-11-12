@@ -1,0 +1,34 @@
+.blogitem-wrap {
+  margin: auto;
+  font-family: "proxima-nova";
+}
+
+.blogitem-cover {
+  max-width: 320px;
+  max-height: 320px;
+  width: 100%;
+  height: auto;
+  /* aspect-ratio: 1 / 1; */
+  object-fit: cover;
+  margin: 0rem 0rem;
+}
+
+.blogitem-cover:hover {
+  box-shadow: 1px 1px 10px 0 rgba(0, 0, 0, 0.1);
+  filter: blur(0.5px);
+  color: black;
+}
+
+.link {
+  text-decoration: none;
+  color: #575757;
+  text-align: center;
+}
+
+.link:hover {
+  color: black;
+}
+
+.imgparent {
+  margin: 0rem 0.1rem;
+}

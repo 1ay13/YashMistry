@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  font-family: altone, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif, bristone;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace,;
+}
+
+@font-face {
+  font-family: "bristone";
+  src: url("../public/fonts/bristone.ttf");
+}
+
+@font-face {
+  font-family: "altone";
+  src: url("../public/fonts/altone.ttf");
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

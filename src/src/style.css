@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'altone';
+    src: url('/fonts/altone.ttf');
+}
+
+@font-face {
+    font-family: 'bristone';
+    src: url('/fonts/bristone.ttf');
+}

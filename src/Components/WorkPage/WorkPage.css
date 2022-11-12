@@ -1,0 +1,21 @@
+.workpage-main {
+  display: grid;
+  height: auto;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 1rem;
+  padding: 0 1rem;
+}
+
+@media (max-width: 870px) {
+  .workpage-main {
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 0.5rem;
+    padding: 0 1rem;
+  }
+}
+
+@media (max-width: 590px) {
+  .workpage-main {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}

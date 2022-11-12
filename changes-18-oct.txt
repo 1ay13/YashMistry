@@ -1,0 +1,35 @@
+18/10/22
+
+-> Change width of all pages (looks bigger) 
+make container and set size same for every page 
+
+----Commercial----
+PC -> Change width (reference -- film page quick links width)
+Mobile -> Width is not the same of video and quick links 
+
+----Film----
+PC -> Video size and quick link size is not the same. 
+
+----Header----
+Color not changing after landing into the page. 
+
+---Sidebar---
+delete designed by 
+
+---Work---
+PC: width change small (container)
+Mobile: increase width grid, 
+	white line at bottom,
+	delete hover effect
+
+---WorkPage---
+PC: change width (container) 
+Mobile: increase width to similar post 
+
+
+---Axiom Post---
+PC: container change width to small
+Mobile: remove connect white box and make text little big for redablity. 
+
+
+
